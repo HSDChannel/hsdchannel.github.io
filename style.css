@@ -7,6 +7,36 @@
         border-radius: 10px;
         color: #0000cc;
 		font-family: Arial, 'Arial', cursive;
+        background: white;
+      }
+	   #okno_git {
+        width: 200px;
+        height: 45px;
+        text-align: center;
+        padding: 15px;
+        border: 3px solid #333367;
+        border-radius: 10px;
+        color: #0000cc;
+		font-family: Arial, 'Arial', cursive;
+        background: white;
+      }
+      #kvadrat {
+        width: 400px;
+        height: 480px;
+        border-radius: 10px;
+        color: #0000cc;
+        background: white;
+		position: relative;
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+      }
+	   #kvadrat2 {
+       width: 460px;
+       height: 350px;
+       border-radius: 10px;
+       color: #0000cc;
+       background: white;
+	   position: relative;
+	   box-shadow: 0 0 10px rgba(0,0,0,0.5);
       }
 	  #font {
 		  font-size: 48px;
@@ -18,4 +48,14 @@
 		  color: #333367;
 		  font-family: Arial, 'Arial', cursive;
 		  text-align: right;
+	  }
+	  #Video {
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      min-width: 100%;
+      min-height: 100%;
+      }
+	  .content {
+      position: relative;
 	  }
