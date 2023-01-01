@@ -38,17 +38,6 @@
 	   position: relative;
 	   box-shadow: 0 0 10px rgba(0,0,0,0.5);
       }
-	  #kvadrat_elka {
-       width: 199px;
-       height: 320px;
-       border-radius: 10px;
-       color: #0000cc;
-       background: white;
-	   position: fixed;
-	   box-shadow: 0 0 10px rgba(0,0,0,0.5);
-	   bottom: 20px;
-	   right: 20px;
-      }
 	  #font {
 		  font-size: 48px;
 		  color: #333367;
@@ -59,14 +48,4 @@
 		  color: #333367;
 		  font-family: Arial, 'Arial', cursive;
 		  text-align: right;
-	  }
-	  #Video {
-      position: fixed;
-      right: 0;
-      bottom: 0;
-      min-width: 100%;
-      min-height: 100%;
-      }
-	  .content {
-      position: relative;
 	  }
