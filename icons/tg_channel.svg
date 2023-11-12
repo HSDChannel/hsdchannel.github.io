@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="365.72131"
+   height="112.61459"
+   viewBox="0 1.1 96.763921 4.0403089"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="tg_channel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     viewbox-y="100"
+     units="px"
+     height="114.301px"
+     inkscape:zoom="1.5001964"
+     inkscape:cx="113.98508"
+     inkscape:cy="96.987301"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.391164,-0.42714516)">
+    <g
+       id="Artboard"
+       transform="matrix(0.11853902,0,0,0.11853902,21.096628,-11.08613)">
+      <linearGradient
+         id="Oval_1_"
+         gradientUnits="userSpaceOnUse"
+         x1="-838.04102"
+         y1="660.58099"
+         x2="-838.04102"
+         y2="660.34271"
+         gradientTransform="matrix(1000,0,0,-1000,838161,660581)">
+        <stop
+           offset="0"
+           style="stop-color:#2AABEE"
+           id="stop824" />
+        <stop
+           offset="1"
+           style="stop-color:#229ED9"
+           id="stop826" />
+      </linearGradient>
+      <circle
+         id="Oval"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         fill="url(#Oval_1_)"
+         cx="120.1"
+         cy="120.1"
+         r="120.1"
+         style="fill:url(#Oval_1_)" />
+      <path
+         id="Path-3"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         fill="#ffffff"
+         d="m 54.3,118.8 c 35,-15.2 58.3,-25.3 70,-30.2 33.3,-13.9 40.3,-16.3 44.8,-16.4 1,0 3.2,0.2 4.7,1.4 1.2,1 1.5,2.3 1.7,3.3 0.2,1 0.4,3.1 0.2,4.7 -1.8,19 -9.6,65.1 -13.6,86.3 -1.7,9 -5,12 -8.2,12.3 -7,0.6 -12.3,-4.6 -19,-9 -10.6,-6.9 -16.5,-11.2 -26.8,-18 -11.9,-7.8 -4.2,-12.1 2.6,-19.1 1.8,-1.8 32.5,-29.8 33.1,-32.3 0.1,-0.3 0.1,-1.5 -0.6,-2.1 -0.7,-0.6 -1.7,-0.4 -2.5,-0.2 -1.1,0.2 -17.9,11.4 -50.6,33.5 -4.8,3.3 -9.1,4.9 -13,4.8 -4.3,-0.1 -12.5,-2.4 -18.7,-4.4 -7.5,-2.4 -13.5,-3.7 -13,-7.9 0.3,-2.2 3.3,-4.4 8.9,-6.7 z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Слой 2"
+     transform="translate(-20.391164,-0.42714516)">
+    <g
+       id="g876"
+       clip-path="none"
+       style="fill:#000000">
+      <g
+         inkscape:label="Clip"
+         id="g874"
+         style="fill:#000000">
+        <g
+           id="g10416"
+           clip-path="none"
+           style="fill:#000000">
+          <g
+             inkscape:label="Clip"
+             id="g10414"
+             style="fill:#000000">
+            <g
+               aria-label="канал"
+               id="text5664"
+               style="font-weight:bold;font-size:19.6963px;line-height:1.25;font-family:'Stolzl Display';-inkscape-font-specification:'Stolzl Display Bold';stroke-width:0.492407">
+              <path
+                 d="m 61.535482,2.9731395 4.31349,5.5937493 h -4.215009 l -3.1908,-4.2937935 V 8.5668888 H 55.094791 V -2.2660765 h 3.348372 v 4.1362231 l 2.934748,-4.1362231 h 4.175616 z"
+                 id="path943" />
+              <path
+                 d="m 71.009352,-2.5221284 q 1.910541,0 3.092319,1.4772226 v -1.2211707 h 3.348371 V 8.5668888 H 74.101671 V 7.4048071 q -1.162081,1.4181336 -3.072622,1.4181336 -2.087808,0 -3.486246,-1.5954003 -1.398437,-1.5954004 -1.398437,-4.0771342 0,-2.48173389 1.398437,-4.07713423 1.418134,-1.59540037 3.466549,-1.59540037 z m 0.807549,3.19080071 q -0.984815,0 -1.634793,0.68937049 -0.649978,0.6893705 -0.649978,1.7923634 0,1.1226891 0.649978,1.8120596 0.649978,0.6696742 1.634793,0.6696742 0.649977,0 1.162081,-0.2954445 0.5318,-0.3151408 0.827245,-0.8666372 0.295444,-0.5711927 0.295444,-1.3196521 0,-1.1029929 -0.649978,-1.7923634 -0.649977,-0.68937049 -1.634792,-0.68937049 z"
+                 id="path945" />
+              <path
+                 d="M 90.016279,8.5668888 H 86.667907 V 4.5488435 H 83.161966 V 8.5668888 H 79.813595 V -2.2660765 h 3.348371 v 3.604423 h 3.505941 v -3.604423 h 3.348372 z"
+                 id="path947" />
+              <path
+                 d="m 96.850867,-2.5221284 q 1.910541,0 3.092319,1.4772226 v -1.2211707 h 3.348374 V 8.5668888 H 99.943186 V 7.4048071 q -1.162082,1.4181336 -3.072623,1.4181336 -2.087808,0 -3.486245,-1.5954003 -1.398437,-1.5954004 -1.398437,-4.0771342 0,-2.48173389 1.398437,-4.07713423 1.418134,-1.59540037 3.466549,-1.59540037 z m 0.807548,3.19080071 q -0.984815,0 -1.634793,0.68937049 -0.649978,0.6893705 -0.649978,1.7923634 0,1.1226891 0.649978,1.8120596 0.649978,0.6696742 1.634793,0.6696742 0.649978,0 1.162082,-0.2954445 0.5318,-0.3151408 0.827244,-0.8666372 0.295445,-0.5711927 0.295445,-1.3196521 0,-1.1029929 -0.649978,-1.7923634 Q 98.64323,0.66867231 97.658415,0.66867231 Z"
+                 id="path949" />
+              <path
+                 d="m 116.62592,8.5668888 h -3.34837 V 0.92472421 h -2.1075 l -1.20148,7.64216459 h -4.70741 V 5.3760881 h 1.81206 l 1.24086,-7.6421646 h 8.31184 z"
+                 id="path951" />
+            </g>
+          </g>
+        </g>
+        <g
+           inkscape:label="Clip"
+           id="use10420"
+           style="fill:#000000">
+          <g
+             id="text923"
+             style="font-weight:bold;font-size:19.6963px;line-height:1.25;font-family:'Stolzl Display';-inkscape-font-specification:'Stolzl Display Bold';stroke-width:0.492407" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="Clip"
+       id="use880"
+       style="fill:#000000">
+      <g
+         id="g933"
+         clip-path="none"
+         style="fill:#000000">
+        <g
+           inkscape:label="Clip"
+           id="g931"
+           style="fill:#000000">
+          <g
+             id="text929"
+             style="font-weight:bold;font-size:19.6963px;line-height:1.25;font-family:'Stolzl Display';-inkscape-font-specification:'Stolzl Display Bold';stroke-width:0.492407" />
+        </g>
+      </g>
+      <g
+         inkscape:label="Clip"
+         id="g939"
+         style="fill:#000000">
+        <g
+           id="text937"
+           style="font-weight:bold;font-size:19.6963px;line-height:1.25;font-family:'Stolzl Display';-inkscape-font-specification:'Stolzl Display Bold';stroke-width:0.492407" />
+      </g>
+    </g>
+  </g>
+</svg>
