@@ -5,9 +5,7 @@
         padding: 15px;
         border: 3px solid #333367;
         border-radius: 10px;
-        color: #0000cc;
 		font-family: Arial, 'Arial', cursive;
-        background: white;
       }
 	   #okno_git {
         width: 200px;
@@ -16,27 +14,30 @@
         padding: 15px;
         border: 3px solid #333367;
         border-radius: 10px;
-        color: #0000cc;
 		font-family: Arial, 'Arial', cursive;
-        background: white;
       }
       #kvadrat {
         width: 400px;
         height: 480px;
         border-radius: 10px;
-        color: #0000cc;
-        background: white;
 		position: relative;
-		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		#box-shadow: 0 0 10px rgba(0,0,0,0.5);
       }
 	   #kvadrat2 {
        width: 460px;
        height: 350px;
        border-radius: 10px;
-       color: #0000cc;
-       background: white;
 	   position: relative;
-	   box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	   #box-shadow: 0 0 10px rgba(0,0,0,0.5);
+      }
+	  #kvadrat_elka {
+       width: 199px;
+       height: 320px;
+       border-radius: 10px;
+	   position: fixed;
+	   #box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	   bottom: 20px;
+	   right: 20px;
       }
 	  #font {
 		  font-size: 48px;
