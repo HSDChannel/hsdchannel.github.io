@@ -1,6 +1,8 @@
-@import url('https://rsms.me/inter/inter.css');
-
-html { font-family: 'Inter', sans-serif; }
+:root {
+    font-family: Inter, sans-serif;
+    src: url('../fonts/Inter-Regular.woff2') format('WOFF');
+    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+}
 
 body {
     margin: 0;
