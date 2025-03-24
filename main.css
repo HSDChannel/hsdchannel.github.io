@@ -36,14 +36,3 @@ socials a {
 socials a:hover {
     opacity: 1;
 }
-
-@media (prefers-color-scheme: dark) {
-    body.dark {
-        background-color: white;
-        color: #323266;
-    }
-
-    socials a.dark {
-        color: #323266;
-    }
-}
