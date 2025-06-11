@@ -3,43 +3,18 @@
    viewBox="0 0 127.14 96.36"
    version="1.1"
    id="svg11"
-   sodipodi:docname="discord.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview13"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="4.2708825"
-     inkscape:cx="23.414365"
-     inkscape:cy="68.487016"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
   <defs
      id="defs4">
     <style
        id="style2">.cls-1{fill:#5865f2;}</style>
   </defs>
   <g
-     inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       style="display:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
        id="rect853"
        width="72.467461"
        height="34.419117"
@@ -47,12 +22,10 @@
        y="33.48254" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2">
+     id="layer2">
     <g
-       id="图层_2"
-       data-name="图层 2"
+       id="discord_2"
+       data-name="discord 2"
        style="fill:#323266;fill-opacity:1">
       <g
          id="Discord_Logos"
