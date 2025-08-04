@@ -8,6 +8,30 @@ body {
     margin: 0;
 }
 
+.mi{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    z-index: 1000;
+}
+
+.banners{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    z-index: 1000;
+}
+.banners a {
+    text-decoration: none;
+    opacity: 0.5;
+    transition: 0.3s;
+}
+.banners a:hover {
+    opacity: 1;
+}
+
 .absolute-center {
     display: flex;
     flex-direction: column;
@@ -36,3 +60,8 @@ socials a {
 socials a:hover {
     opacity: 1;
 }
+
+a {
+    color: #323266;
+}
+
